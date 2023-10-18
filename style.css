@@ -1,0 +1,30 @@
+nav {
+    background-color: lightgray;
+}
+li{
+    display: inline;
+    margin:1rem;
+    border: 1px solid black;
+    padding: 0.5rem;
+    border-radius: 1rem;
+
+}
+nav a{
+    text-decoration:none;
+
+}
+.entete {
+    background-color:lightgray ;
+}
+#c2r2 {
+    border:1px solid black ;
+}
+li:hover {
+    background-color: black;
+    color: white;
+}
+
+td:nth-child(2){
+    background-color:lightgray
+
+}
